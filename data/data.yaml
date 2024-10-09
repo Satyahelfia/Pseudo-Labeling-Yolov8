@@ -1,0 +1,9 @@
+Train: Train.txt
+Test: Test.txt
+Validation: Validation.txt
+names:
+  0: speedlimit
+  1: trafficlight
+  2: stop
+  3: crosswalk
+path: .

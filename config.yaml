@@ -1,0 +1,10 @@
+path: C:\Kuliah\Pseudo-Labeling-Yolov8\data
+train: images/train
+test: images/test
+val: images/val
+
+names:
+  0: speedlimit
+  1: trafficlight
+  2: stop
+  3: crosswalk
