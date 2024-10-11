@@ -3,9 +3,9 @@ from ultralytics import YOLO
 import cv2
 
 # Path ke model dan folder gambar
-model_path = 'runs/detect/train5/weights/best.pt'
-image_folder = 'road_sign'
-annotation_folder = 'road_sign_annotations'
+model_path = 'runs/detect/train6_roe_example/weights/best.pt'
+image_folder = 'roe'
+annotation_folder = 'roe_annotations'
 
 # Load model YOLOv8
 model = YOLO(model_path)
